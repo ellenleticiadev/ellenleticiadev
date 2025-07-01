@@ -1,6 +1,6 @@
 <h1 align="center">Olá! Eu sou a Ellen Leticia </h1>
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/mulher-programadora-trabalhando-em-um-novo-projeto-6353864-5264781.png" width="500 alt="Anime Bad Girl" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/mulher-programadora-trabalhando-em-um-novo-projeto-6353864-5264781.png" width="400 alt="Anime Bad Girl" />
 </p>
 
 <p align="center">
