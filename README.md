@@ -16,8 +16,7 @@ Buscando oportunidade para iniciar minha trajetória profissional como Programad
 
 - 💻 Estudante de Engenharia da Computação (UNASP SP)
 - 🖤 Amadora de programação, sempre buscando melhorar
-
-- 🎧 Viciada em playlists lo-fi e rock
+- 🎧 Viciada em K-Pop
 - 🇬🇧 Inglês intermediário baixo (IW English School - cursando)
 
 ---
