@@ -49,16 +49,6 @@ Buscando oportunidade para iniciar minha trajetória profissional como Programad
 
 ---
 
-## � Meus Projetos
-
-### C
-- [Hello World em C](./projetos/C/hello_world.c) - Primeiro programa em C
-
-### Python
-- [Hello World em Python](./projetos/Python/hello_world.py) - Primeiro programa em Python
-
----
-
 ## �📊 GitHub Stats
 
 <p align="center">
