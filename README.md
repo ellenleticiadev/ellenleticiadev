@@ -30,9 +30,15 @@ Buscando oportunidade para iniciar minha trajetória profissional como Programad
 
 ## Cursos e Certificações 📚
 
-- PDP - Programa de Desenvolvimento Profissional - MICROLINS (2024)
-- Fundamentos de Lógica de Programação - Fundação Bradesco (2025)
-- Introdução à Programação Orientada a Objetos - Fundação Bradesco  (2025)
+- Introdução à Programação com Python – Santander Open Academy – Em andamento – 2026
+- Projetos de Sistemas de TI – Fundação Bradesco – Em andamento – 2026
+- Introdução à Programação Orientada a Objetos (POO) – Fundação Bradesco – Concluído – 2025
+- Fundamentos de Lógica de Programação – Fundação Bradesco – Concluído – 2025
+- Fundamentos de TI – Hardware e Software – Concluído – 2026
+- Informática Profissionalizante – Microlins – Concluído – 2025
+- PDP – Microlins – Concluído – 2025
+- Inglês – IW English School – Em andamento
+
 
 ---
 
@@ -49,22 +55,12 @@ Buscando oportunidade para iniciar minha trajetória profissional como Programad
 
 ---
 
-## �📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellenleticiadev&show_icons=true&theme=tokyonight" alt="Ellen's GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellenleticiadev&layout=compact&theme=tokyonight" alt="Top Langs" width="300"/>
-</p>
-
----
-
 ## 🌐 Onde me encontrar
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957555346)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/ellenleticiacorreiabarros)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenleticiadev/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ellenleticiacorreiabarros@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenleticiadev)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511957555346)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ellenleticiadev/)
+- [![GitHub](https://img.shields.io/badge/GitHub-E44C30?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ellenleticiadev)
+- 📧 **E-mail:** ellenleticiacorreiabarros@gmail.com 
 ---
 
 <p align="center">
